@@ -1,11 +1,9 @@
 
 <div align="center">
 
-# Hi, I'm Muskan Mujawar 👋
 
-### Aspiring Data Analyst | Data Science Enthusiast
 
-<img src="banner.png" width="100%" alt="Muskan Mujawar Banner">
+<img src="C:\Users\Faiyaz Mujawar\Downloads\Blue and White Modern Business Consultant Banner Landscape.png" width="100%" alt="Muskan Mujawar Banner">
 
 </div>
 
