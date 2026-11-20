@@ -3,7 +3,7 @@
 
 
 
-<img src="C:\Users\Faiyaz Mujawar\Downloads\Blue and White Modern Business Consultant Banner Landscape.png" width="100%" alt="Muskan Mujawar Banner">
+<img src="https://canva.link/wrurczt62i7notn" width="100%" alt="Muskan Mujawar Banner">
 
 </div>
 
