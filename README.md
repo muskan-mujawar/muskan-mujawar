@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**muskan-mujawar/muskan-mujawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Muskan Mujawar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aspiring Data Analyst | Data Science Enthusiast
+
+<img src="banner.png" width="100%" alt="Muskan Mujawar Banner">
+
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Engineering Graduate
+- 📊 Interested in Data Analytics and Data Science
+- 🐍 Working with Python, SQL and Excel
+- 📈 Exploring Machine Learning and Data Visualization
+- 🔍 Passionate about transforming data into meaningful insights
+- 🌱 Continuously learning and building practical projects
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Databases:** MySQL
+- **Visualization:** Tableau, Power BI
+- **Other:** Excel, Jupyter Notebook, Git, GitHub
+
+### 📂 Featured Projects
+
+- Payment Fraud Detection & Risk Analytics
+- Spaceship Titanic – Exploratory Data Analysis
+- Customer Churn Analysis
+- Sales and Business Analytics
+
+### 🤝 Connect With Me
+
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- GitHub: [My GitHub](YOUR_GITHUB_URL)
+
+---
+
+<div align="center">
+
+**Turning Data into Insights | Learning | Building | Growing**
+
+</div>
